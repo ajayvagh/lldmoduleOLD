@@ -10,5 +10,7 @@ public class Client {
         System.out.println(s.id);
         System.out.println(s.marks);
         System.out.println(s.name);
+
+        s.printDetails();
     }
 }
