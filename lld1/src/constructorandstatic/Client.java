@@ -16,5 +16,8 @@ public class Client {
         Employee e1 = new Employee("vagh", 100500);
         System.out.println(e1.name);
         System.out.println(e1.salary);
+
+
+//        copy constructor
     }
 }
