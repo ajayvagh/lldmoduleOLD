@@ -71,6 +71,11 @@ public class Client {
 //        METHOD OVERRIDING always happens in child class and not in same class
 //        RUNTIME POLYMORPHISM -> dont know which method will be executed
 
+        C objc = new C(1, 2, 3);
+        System.out.println(objc.x);
+        System.out.println(objc.y);
+        System.out.println(objc.z);
+        objc.helloC();
     }
 }
 //1.Single inheritance
