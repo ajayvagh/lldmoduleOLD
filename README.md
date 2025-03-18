@@ -7,8 +7,7 @@ This repository contains Java **low-level design (LLD)** concepts, including **m
 
 ## 📌 Features
 ✅ Multithreading & Concurrency  
-✅ Object-Oriented Programming (OOP) Principles  
-✅ Design Patterns Implementation  
+✅ Object-Oriented Programming (OOP) Principles   
 ✅ Best Practices in Java  
 
 ---
